@@ -173,7 +173,7 @@ The project analyzes hospital length of stay and cost data to identify what driv
 ## How to Reproduce
 
 Step-by-step instructions for running the analysis:
-1. [Download dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_sellers_dataset.csv)
+1. [Download dataset](https://github.com/BishoyOsama/Hospital-Discharges-Financial-Efficiency/tree/master/dataset)
 2. Open your bi tool
 3. feel free to refer to data model to reproduce
 
